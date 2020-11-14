@@ -1,0 +1,6 @@
+*
+!.gitignore
+!.zsh_plugins.txt
+!.zshrc
+!.p10k.zsh
+!.setup.zsh
