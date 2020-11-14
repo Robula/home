@@ -1,0 +1,21 @@
+brew tap homebrew/cask
+brew tap homebrew/cask-fonts
+brew tap homebrew/cask-versions
+
+git
+git-lfs
+nvm
+antibody
+
+firefox-beta
+google-chrome-dev
+microsoft-office
+slack
+font-fira-code-nerd-font
+microsoft-auto-update
+openvpn-connect
+spotify
+fork
+microsoft-edge-dev
+postman
+visual-studio-code
